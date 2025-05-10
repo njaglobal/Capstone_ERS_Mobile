@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+tensorflowjs
+pillow
+numpy
+scikit-learn
+matplotlib
